@@ -9,12 +9,20 @@
     padding: 10px;
 
 }
-
-
-
+#subheader{
+   text-align: center;
+   font-family: sans-serif;
+   padding: 5px; 
+}
 
 
 #image {
-    max-width: 80%;
-    height: auto;
+    max-width: 60%;
+    height: 50%;
+    margin-top: 10px;
+    border: 1px solid   black;
+}
+#img-div{
+    margin:auto;
+    
 }
